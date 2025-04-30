@@ -44,18 +44,5 @@ Meu nome é Renato Matsumoto Issoe, tenho 20 anos e sou formado em Análise e De
 
 ---
 
-## 📊 Estatísticas GitHub
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=renatoissoe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
-/>
-<img 
-  align="left" 
-  alt="Top Langs" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoissoe&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=1800"
-/>
 
