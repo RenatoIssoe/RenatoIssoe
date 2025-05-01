@@ -3,7 +3,7 @@
 **`Desenvolvedor web`**
 
 
-Meu nome é Renato Matsumoto Issoe, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes (UMC). Desde cedo, sempre fui apaixonado pela área de tecnologia, o que me levou a concluir diversos cursos na área, incluindo informática básica, robótica e desenvolvimento de jogos com ferramentas como Unity, Stencyl, GameMaker Studio 2, entre outras. Atualmente, continuo expandindo meus conhecimentos por meio de cursos online, especialmente nas áreas de desenvolvimento web (HTML, CSS, PHP) e banco de dados (MySQL e PostgreSQL), utilizando plataformas como a Alura. Também possuo conhecimentos em redes, segurança da informação, governança de TI e administração de sistemas de informação. Sou dedicado, esforçado e sempre busco aprimorar minhas habilidades com foco no crescimento profissional.
+Meu nome é Renato Matsumoto Issoe, tenho 20 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes (UMC). Desde cedo, sempre adimirei pela a tecnologia, o que me levou a concluir diversos cursos na área, incluindo informática básica, robótica e desenvolvimento de jogos com ferramentas como Unity, Stencyl, GameMaker Studio 2, entre outras. Atualmente, continuo expandindo meus conhecimentos por meio de cursos online, especialmente nas áreas de desenvolvimento web (HTML, CSS, PHP) e banco de dados (MySQL e PostgreSQL), utilizando plataformas como a Alura. Também possuo conhecimentos em redes, segurança da informação, governança de TI e administração de sistemas de informação. Sou dedicado, esforçado e sempre busco aprimorar minhas habilidades com foco no crescimento profissional.
 
 ---
 
