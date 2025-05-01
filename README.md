@@ -22,9 +22,7 @@ Meu nome é Renato Matsumoto Issoe, tenho 20 anos e sou formado em Análise e De
     <img src="https://img.shields.io/badge/LinkedIn-Renato%20Issoe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <a href="https://github.com/renatoissoe?tab=followers" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-Followers-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+ 
 </div>
 
 ---
